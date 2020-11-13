@@ -1,3 +1,4 @@
+# a simple calculator by sugan
 def add(x, y):
     """this function add two
     numbers"""
