@@ -1,4 +1,4 @@
-==============================================================================
+===============================================================================
 =    W e l c o m e   t o   t h e   V I M   T u t o r    -    Version 1.5      =
 ===============================================================================
 
@@ -81,7 +81,7 @@ Note: The cursor keys should also work.  But using hjkl you will be able to
 
   4. Repeat steps 2 through 4 until the sentence is correct.
 
----> The ccow jumpedd ovverr thhe mooon.
+---> The cow jumped over the moon.
 
   5. Now that the line is correct, go on to Lesson 1.4.
 
@@ -152,7 +152,7 @@ Now continue with Lesson 2.
   NOTE: The letters dw will appear on the last line of the screen as you type
 	them. If you typed something wrong, press  <ESC>  and start over.
 
----> There are a some words fun that don't belong paper in this sentence.
+---> There are a some words that don't belong in this sentence.
 
   5. Repeat steps 3 and 4 until the sentence is correct and go to Lesson 2.2.
 
@@ -172,7 +172,7 @@ Now continue with Lesson 2.
 
   4. Type    d$    to delete to the end of the line.
 
----> Somebody typed the end of this line twice. end of this line twice.
+---> Somebody typed the end of this line twice.
 
 
   5. Move on to Lesson 2.3 to understand what is happening.
